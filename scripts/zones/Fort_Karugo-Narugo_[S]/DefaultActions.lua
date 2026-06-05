@@ -1,6 +1,7 @@
 local ID = zones[xi.zone.FORT_KARUGO_NARUGO_S]
 
 return {
-    ['qm4']            = { messageSpecial = ID.text.NOTHING_OUT_OF_ORDINARY },
-    ['Stone_Monument'] = { event = 900 },
+    ['qm4']                  = { messageSpecial = ID.text.NOTHING_OUT_OF_ORDINARY },
+    ['Indescript_Markings'] = { messageSpecial = ID.text.NOTHING_OUT_OF_ORDINARY },
+    ['Stone_Monument']      = { event = 900 },
 }

@@ -11,5 +11,6 @@ return {
     ['Engelhart']        = { event = 104 },
     ['Gentle_Tiger']     = { event = 109 },
     ['Heumila']          = { event = 0 },
+    ['Loussaire']        = { event = 48 },
     ['Pagdako']          = { event = 106 },
 }
